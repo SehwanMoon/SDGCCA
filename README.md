@@ -6,3 +6,19 @@ SDGCCA is also based on deep neural network (DNN), allowing powerful capturing n
 
 # SDGCCA workflow
 <img width="80%" src="https://user-images.githubusercontent.com/37695581/226518563-60dd84d1-eeb4-48e4-8afc-30d9988ca895.png"/>
+
+  
+## Citation
+If you find the MultiModal Loss is userful, please cite the above paper:
+```{r}
+@article{moon2022sdgcca,
+  title={SDGCCA: Supervised deep generalized canonical correlation analysis for multi-omics integration},
+  author={Moon, Sehwan and Hwang, Jeongyoung and Lee, Hyunju},
+  journal={Journal of Computational Biology},
+  volume={29},
+  number={8},
+  pages={892--907},
+  year={2022},
+  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+}
+```
