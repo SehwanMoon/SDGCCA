@@ -5,4 +5,4 @@ SDGCCA identifies the **common and correlated information between multiple omics
 SDGCCA is also based on deep neural network (DNN), allowing powerful capturing non-linear part of the biological complexity.
 
 # SDGCCA workflow
-[model.pdf](https://github.com/SehwanMoon/SDGCCA/files/11025029/model.pdf)
+<img width="80%" src="https://github.com/SehwanMoon/SDGCCA/files/11025029/model.pdf"/>
